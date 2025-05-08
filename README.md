@@ -1,0 +1,4 @@
+Go to task-backend and run npm i
+Run the application using node server.js --env-file=.env
+Go to taskman and run npm i
+Run the application using npm start
